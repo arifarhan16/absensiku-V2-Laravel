@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
+
+## Version
+
+V.0.1.2
+
 ## Licence
 
 Copyright @ 2019 By Arikun
