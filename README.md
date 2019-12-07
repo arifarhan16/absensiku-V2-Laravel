@@ -26,7 +26,7 @@ THIS APPLICATION MUST STILL KEEP UPDATE
 
 ## Bug
 
-I don't know whether the application has a bug, if there is a report to me or can contact me <a href="mailto:arifarhan1602@gmail.com">Click Heee</a>
+I don't know whether the application has a bug, if there is a report to me or can contact me <a href="mailto:arifarhan1602@gmail.com">Click Here</a>
 
 ## Features
 
